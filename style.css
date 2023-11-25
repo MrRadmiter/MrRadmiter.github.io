@@ -1,0 +1,13 @@
+.mainblock{
+    background: #FFD12A;
+    padding: 15px 15px 20px 15px;
+    text-align: center;
+}
+h1 {
+    display: inline-block;
+    width: 215px;
+    margin: 0px 0px 5px 0px;
+}
+p {
+    display: inline;
+}
